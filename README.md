@@ -1,4 +1,4 @@
-# Data Visualistaion for COVID-19
+# Data Visualisation for COVID-19
 
 ## Group 1
 * Sayan Garai - 2005052
